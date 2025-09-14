@@ -1,0 +1,2600 @@
+[
+    {
+        "id": "673efdad69694279c09c6c8c",
+        "group": "Art",
+        "industry": "Museums",
+        "exclude": false
+    },
+    {
+        "id": "673efdc469694279c09c6c8e",
+        "group": "Art",
+        "industry": "Photography",
+        "exclude": false
+    },
+    {
+        "id": "673efdbb69694279c09c6c8d",
+        "group": "Art",
+        "industry": "Regenerative Design",
+        "exclude": false
+    },
+    {
+        "id": "673efdcf69694279c09c6c91",
+        "group": "Chemicals",
+        "industry": "Agricultural Chemical Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efdc969694279c09c6c8f",
+        "group": "Chemicals",
+        "industry": "Chemical Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efdce69694279c09c6c90",
+        "group": "Chemicals",
+        "industry": "Chemical Raw Materials Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efdd669694279c09c6c92",
+        "group": "Defense",
+        "industry": "Airlines and Aviation",
+        "exclude": false
+    },
+    {
+        "id": "673efde369694279c09c6c96",
+        "group": "Defense",
+        "industry": "Armed Forces",
+        "exclude": false
+    },
+    {
+        "id": "673efddb69694279c09c6c93",
+        "group": "Defense",
+        "industry": "Aviation and Aerospace Component Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efde669694279c09c6c97",
+        "group": "Defense",
+        "industry": "Defense and Space Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efde369694279c09c6c95",
+        "group": "Defense",
+        "industry": "Military and International Affairs",
+        "exclude": false
+    },
+    {
+        "id": "673efde169694279c09c6c94",
+        "group": "Defense",
+        "industry": "Space Research and Technology",
+        "exclude": false
+    },
+    {
+        "id": "673efdec69694279c09c6c9f",
+        "group": "Education",
+        "industry": "Cosmetology and Barber Schools",
+        "exclude": false
+    },
+    {
+        "id": "673efdef69694279c09c6ca0",
+        "group": "Education",
+        "industry": "E-Learning Providers",
+        "exclude": false
+    },
+    {
+        "id": "673efdeb69694279c09c6c9e",
+        "group": "Education",
+        "industry": "Education",
+        "exclude": false
+    },
+    {
+        "id": "673efdf369694279c09c6ca3",
+        "group": "Education",
+        "industry": "Education Administration Programs",
+        "exclude": false
+    },
+    {
+        "id": "673efdeb69694279c09c6c9d",
+        "group": "Education",
+        "industry": "Fine Arts Schools",
+        "exclude": false
+    },
+    {
+        "id": "673efdf069694279c09c6ca1",
+        "group": "Education",
+        "industry": "Flight Training",
+        "exclude": false
+    },
+    {
+        "id": "673efde869694279c09c6c98",
+        "group": "Education",
+        "industry": "Higher Education",
+        "exclude": false
+    },
+    {
+        "id": "673efdea69694279c09c6c9c",
+        "group": "Education",
+        "industry": "Language Schools",
+        "exclude": false
+    },
+    {
+        "id": "673efde969694279c09c6c9a",
+        "group": "Education",
+        "industry": "Primary and Secondary Education",
+        "exclude": false
+    },
+    {
+        "id": "673efdfc69694279c09c6ca4",
+        "group": "Education",
+        "industry": "Professional Organizations",
+        "exclude": false
+    },
+    {
+        "id": "673efe0569694279c09c6ca5",
+        "group": "Education",
+        "industry": "Professional Services",
+        "exclude": false
+    },
+    {
+        "id": "673efde869694279c09c6c99",
+        "group": "Education",
+        "industry": "Professional Training and Coaching",
+        "exclude": false
+    },
+    {
+        "id": "673efdea69694279c09c6c9b",
+        "group": "Education",
+        "industry": "Savings Institutions",
+        "exclude": false
+    },
+    {
+        "id": "673efdf269694279c09c6ca2",
+        "group": "Education",
+        "industry": "Secretarial Schools",
+        "exclude": false
+    },
+    {
+        "id": "673efe0769694279c09c6ca6",
+        "group": "Education",
+        "industry": "Technical and Vocational Training",
+        "exclude": false
+    },
+    {
+        "id": "673efe0969694279c09c6ca7",
+        "group": "Entertainment",
+        "industry": "Circuses and Magic Shows",
+        "exclude": false
+    },
+    {
+        "id": "673efe1269694279c09c6cab",
+        "group": "Entertainment",
+        "industry": "Entertainment Providers",
+        "exclude": false
+    },
+    {
+        "id": "673efe1b69694279c09c6caf",
+        "group": "Entertainment",
+        "industry": "Movies and Sound Recording",
+        "exclude": false
+    },
+    {
+        "id": "673efe1469694279c09c6cac",
+        "group": "Entertainment",
+        "industry": "Movies, Videos, and Sound",
+        "exclude": false
+    },
+    {
+        "id": "673efe0e69694279c09c6ca9",
+        "group": "Entertainment",
+        "industry": "Musicians",
+        "exclude": false
+    },
+    {
+        "id": "673efe1869694279c09c6cad",
+        "group": "Entertainment",
+        "industry": "Online Audio and Video Media",
+        "exclude": false
+    },
+    {
+        "id": "673efe1a69694279c09c6cae",
+        "group": "Entertainment",
+        "industry": "Sheet Music Publishing",
+        "exclude": false
+    },
+    {
+        "id": "673efe1069694279c09c6caa",
+        "group": "Entertainment",
+        "industry": "Sound Recording",
+        "exclude": false
+    },
+    {
+        "id": "673efe0c69694279c09c6ca8",
+        "group": "Entertainment",
+        "industry": "Theater Companies",
+        "exclude": false
+    },
+    {
+        "id": "673efe2969694279c09c6cb5",
+        "group": "Farming",
+        "industry": "Farming",
+        "exclude": false
+    },
+    {
+        "id": "673efe2169694279c09c6cb2",
+        "group": "Farming",
+        "industry": "Farming, Ranching, Forestry",
+        "exclude": false
+    },
+    {
+        "id": "673efe1f69694279c09c6cb1",
+        "group": "Farming",
+        "industry": "Forestry and Logging",
+        "exclude": false
+    },
+    {
+        "id": "673efe2569694279c09c6cb4",
+        "group": "Farming",
+        "industry": "Horticulture",
+        "exclude": false
+    },
+    {
+        "id": "673efe2269694279c09c6cb3",
+        "group": "Farming",
+        "industry": "Ranching",
+        "exclude": false
+    },
+    {
+        "id": "673efe1f69694279c09c6cb0",
+        "group": "Farming",
+        "industry": "Ranching and Fisheries",
+        "exclude": false
+    },
+    {
+        "id": "673efe3d69694279c09c6cc9",
+        "group": "Finance",
+        "industry": "Accounting",
+        "exclude": false
+    },
+    {
+        "id": "673efe3c69694279c09c6cc8",
+        "group": "Finance",
+        "industry": "Banking",
+        "exclude": false
+    },
+    {
+        "id": "673efe3a69694279c09c6cc4",
+        "group": "Finance",
+        "industry": "Capital Markets",
+        "exclude": false
+    },
+    {
+        "id": "673efe2a69694279c09c6cb6",
+        "group": "Finance",
+        "industry": "Collection Agencies",
+        "exclude": false
+    },
+    {
+        "id": "673efe3c69694279c09c6cc7",
+        "group": "Finance",
+        "industry": "Credit Intermediation",
+        "exclude": false
+    },
+    {
+        "id": "673efe2b69694279c09c6cb9",
+        "group": "Finance",
+        "industry": "Financial Services",
+        "exclude": false
+    },
+    {
+        "id": "673efe3269694279c09c6cbf",
+        "group": "Finance",
+        "industry": "Fundraising",
+        "exclude": false
+    },
+    {
+        "id": "673efe2d69694279c09c6cbb",
+        "group": "Finance",
+        "industry": "Funds and Trusts",
+        "exclude": false
+    },
+    {
+        "id": "673efe2b69694279c09c6cb8",
+        "group": "Finance",
+        "industry": "Insurance",
+        "exclude": false
+    },
+    {
+        "id": "673efe3669694279c09c6cc0",
+        "group": "Finance",
+        "industry": "Insurance Agencies and Brokerages",
+        "exclude": false
+    },
+    {
+        "id": "673efe3769694279c09c6cc1",
+        "group": "Finance",
+        "industry": "Insurance Carriers",
+        "exclude": false
+    },
+    {
+        "id": "673efe2c69694279c09c6cba",
+        "group": "Finance",
+        "industry": "Insurance and Employee Benefit Funds",
+        "exclude": false
+    },
+    {
+        "id": "673efe2e69694279c09c6cbc",
+        "group": "Finance",
+        "industry": "International Trade and Development",
+        "exclude": false
+    },
+    {
+        "id": "673efe3769694279c09c6cc2",
+        "group": "Finance",
+        "industry": "Investment Advice",
+        "exclude": false
+    },
+    {
+        "id": "673efe3069694279c09c6cbd",
+        "group": "Finance",
+        "industry": "Investment Banking",
+        "exclude": false
+    },
+    {
+        "id": "673efe3d69694279c09c6cca",
+        "group": "Finance",
+        "industry": "Investment Management",
+        "exclude": false
+    },
+    {
+        "id": "673efe3c69694279c09c6cc6",
+        "group": "Finance",
+        "industry": "Loan Brokers",
+        "exclude": false
+    },
+    {
+        "id": "673efe2a69694279c09c6cb7",
+        "group": "Finance",
+        "industry": "Pension Funds",
+        "exclude": false
+    },
+    {
+        "id": "673efe3969694279c09c6cc3",
+        "group": "Finance",
+        "industry": "Philanthropic Fundraising Services",
+        "exclude": false
+    },
+    {
+        "id": "673efe3b69694279c09c6cc5",
+        "group": "Finance",
+        "industry": "Specialty Trade Contractors",
+        "exclude": false
+    },
+    {
+        "id": "673efe3169694279c09c6cbe",
+        "group": "Finance",
+        "industry": "Venture Capital and Private Equity Principals",
+        "exclude": false
+    },
+    {
+        "id": "673efe4269694279c09c6cd0",
+        "group": "Food and Beverages",
+        "industry": "Animal Feed Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe4569694279c09c6cd5",
+        "group": "Food and Beverages",
+        "industry": "Baked Goods Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe3e69694279c09c6ccb",
+        "group": "Food and Beverages",
+        "industry": "Beverage Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe4269694279c09c6cd1",
+        "group": "Food and Beverages",
+        "industry": "Breweries",
+        "exclude": false
+    },
+    {
+        "id": "673efe4769694279c09c6cd7",
+        "group": "Food and Beverages",
+        "industry": "Dairy Product Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe4569694279c09c6cd4",
+        "group": "Food and Beverages",
+        "industry": "Distilleries",
+        "exclude": false
+    },
+    {
+        "id": "673efe4369694279c09c6cd2",
+        "group": "Food and Beverages",
+        "industry": "Food and Beverage Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe3f69694279c09c6ccc",
+        "group": "Food and Beverages",
+        "industry": "Food and Beverage Retail",
+        "exclude": false
+    },
+    {
+        "id": "673efe4b69694279c09c6cd9",
+        "group": "Food and Beverages",
+        "industry": "Food and Beverage Services",
+        "exclude": false
+    },
+    {
+        "id": "673efe4069694279c09c6ccd",
+        "group": "Food and Beverages",
+        "industry": "Fruit and Vegetable Preserves Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe4069694279c09c6cce",
+        "group": "Food and Beverages",
+        "industry": "Meat Products Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe4669694279c09c6cd6",
+        "group": "Food and Beverages",
+        "industry": "Seafood Product Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe4169694279c09c6ccf",
+        "group": "Food and Beverages",
+        "industry": "Sugar and Confectionery Product Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe4869694279c09c6cd8",
+        "group": "Food and Beverages",
+        "industry": "Wholesale Alcoholic Beverages",
+        "exclude": false
+    },
+    {
+        "id": "673efe4c69694279c09c6cda",
+        "group": "Food and Beverages",
+        "industry": "Wholesale Food and Beverage",
+        "exclude": false
+    },
+    {
+        "id": "673efe4469694279c09c6cd3",
+        "group": "Food and Beverages",
+        "industry": "Wineries",
+        "exclude": false
+    },
+    {
+        "id": "673efe4d69694279c09c6cdb",
+        "group": "Government",
+        "industry": "Administration of Justice",
+        "exclude": false
+    },
+    {
+        "id": "673efe5b69694279c09c6ce9",
+        "group": "Government",
+        "industry": "Air, Water, and Waste Program Management",
+        "exclude": false
+    },
+    {
+        "id": "673efe4e69694279c09c6cdd",
+        "group": "Government",
+        "industry": "Civic and Social Organizations",
+        "exclude": false
+    },
+    {
+        "id": "673efe4d69694279c09c6cdc",
+        "group": "Government",
+        "industry": "Claims Adjusting, Actuarial Services",
+        "exclude": false
+    },
+    {
+        "id": "673efe5a69694279c09c6ce8",
+        "group": "Government",
+        "industry": "Conservation Programs",
+        "exclude": false
+    },
+    {
+        "id": "673efe5a69694279c09c6ce7",
+        "group": "Government",
+        "industry": "Economic Programs",
+        "exclude": false
+    },
+    {
+        "id": "673efe5669694279c09c6ce3",
+        "group": "Government",
+        "industry": "Fire Protection",
+        "exclude": false
+    },
+    {
+        "id": "673efe5569694279c09c6ce2",
+        "group": "Government",
+        "industry": "Government Administration",
+        "exclude": false
+    },
+    {
+        "id": "673efe5769694279c09c6ce4",
+        "group": "Government",
+        "industry": "Government Relations Services",
+        "exclude": false
+    },
+    {
+        "id": "673efe4e69694279c09c6cde",
+        "group": "Government",
+        "industry": "Housing Programs",
+        "exclude": false
+    },
+    {
+        "id": "673efe5469694279c09c6ce1",
+        "group": "Government",
+        "industry": "International Affairs",
+        "exclude": false
+    },
+    {
+        "id": "673efe5c69694279c09c6ceb",
+        "group": "Government",
+        "industry": "Political Organizations",
+        "exclude": false
+    },
+    {
+        "id": "673efe5169694279c09c6ce0",
+        "group": "Government",
+        "industry": "Postal Services",
+        "exclude": false
+    },
+    {
+        "id": "673efe5b69694279c09c6cea",
+        "group": "Government",
+        "industry": "Public Assistance Programs",
+        "exclude": false
+    },
+    {
+        "id": "673efe5869694279c09c6ce5",
+        "group": "Government",
+        "industry": "Steam and Air-Conditioning Supply",
+        "exclude": false
+    },
+    {
+        "id": "673efe4f69694279c09c6cdf",
+        "group": "Government",
+        "industry": "Waste Collection",
+        "exclude": false
+    },
+    {
+        "id": "673efe5969694279c09c6ce6",
+        "group": "Government",
+        "industry": "Water Supply and Irrigation Systems",
+        "exclude": false
+    },
+    {
+        "id": "673efe5f69694279c09c6ced",
+        "group": "Healthcare",
+        "industry": "Alternative Medicine",
+        "exclude": false
+    },
+    {
+        "id": "673efe6a69694279c09c6cfb",
+        "group": "Healthcare",
+        "industry": "Ambulance Services",
+        "exclude": false
+    },
+    {
+        "id": "673efe6369694279c09c6cf3",
+        "group": "Healthcare",
+        "industry": "Chiropractors",
+        "exclude": false
+    },
+    {
+        "id": "673efe6269694279c09c6cf1",
+        "group": "Healthcare",
+        "industry": "Correctional Institutions",
+        "exclude": false
+    },
+    {
+        "id": "673efe6269694279c09c6cf2",
+        "group": "Healthcare",
+        "industry": "Dentists",
+        "exclude": false
+    },
+    {
+        "id": "673efe6b69694279c09c6cfd",
+        "group": "Healthcare",
+        "industry": "Family Planning Centers",
+        "exclude": false
+    },
+    {
+        "id": "673efe6a69694279c09c6cfa",
+        "group": "Healthcare",
+        "industry": "Home Health Care Services",
+        "exclude": false
+    },
+    {
+        "id": "673efe6b69694279c09c6cfe",
+        "group": "Healthcare",
+        "industry": "Hospitals",
+        "exclude": false
+    },
+    {
+        "id": "673efe6469694279c09c6cf5",
+        "group": "Healthcare",
+        "industry": "Hospitals and Health Care",
+        "exclude": false
+    },
+    {
+        "id": "673efe6469694279c09c6cf4",
+        "group": "Healthcare",
+        "industry": "Medical Equipment Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe6b69694279c09c6cfc",
+        "group": "Healthcare",
+        "industry": "Medical Practices",
+        "exclude": false
+    },
+    {
+        "id": "673efe6869694279c09c6cf8",
+        "group": "Healthcare",
+        "industry": "Medical and Diagnostic Laboratories",
+        "exclude": false
+    },
+    {
+        "id": "673efe5f69694279c09c6cee",
+        "group": "Healthcare",
+        "industry": "Mental Health Care",
+        "exclude": false
+    },
+    {
+        "id": "673efe6b69694279c09c6cff",
+        "group": "Healthcare",
+        "industry": "Nursing Homes and Residential Care Facilities",
+        "exclude": false
+    },
+    {
+        "id": "673efe6c69694279c09c6d00",
+        "group": "Healthcare",
+        "industry": "Optometrists",
+        "exclude": false
+    },
+    {
+        "id": "673efe6669694279c09c6cf6",
+        "group": "Healthcare",
+        "industry": "Outpatient Care Centers",
+        "exclude": false
+    },
+    {
+        "id": "673efe6969694279c09c6cf9",
+        "group": "Healthcare",
+        "industry": "Physical, Occupational and Speech Therapists",
+        "exclude": false
+    },
+    {
+        "id": "673efe6269694279c09c6cf0",
+        "group": "Healthcare",
+        "industry": "Physicians",
+        "exclude": false
+    },
+    {
+        "id": "673efe6169694279c09c6cef",
+        "group": "Healthcare",
+        "industry": "Public Health",
+        "exclude": false
+    },
+    {
+        "id": "673efe6d69694279c09c6d01",
+        "group": "Healthcare",
+        "industry": "Services for the Elderly and Disabled",
+        "exclude": false
+    },
+    {
+        "id": "673efe6869694279c09c6cf7",
+        "group": "Healthcare",
+        "industry": "Veterinary Services",
+        "exclude": false
+    },
+    {
+        "id": "673efe5e69694279c09c6cec",
+        "group": "Healthcare",
+        "industry": "Wellness and Fitness Services",
+        "exclude": false
+    },
+    {
+        "id": "673efe6d69694279c09c6d02",
+        "group": "Hospitality",
+        "industry": "Accommodation and Food Services",
+        "exclude": false
+    },
+    {
+        "id": "673efe7069694279c09c6d08",
+        "group": "Hospitality",
+        "industry": "Bars, Taverns, and Nightclubs",
+        "exclude": false
+    },
+    {
+        "id": "673efe6e69694279c09c6d04",
+        "group": "Hospitality",
+        "industry": "Bed-and-Breakfasts, Hostels, Homestays",
+        "exclude": false
+    },
+    {
+        "id": "673efe6f69694279c09c6d06",
+        "group": "Hospitality",
+        "industry": "Caterers",
+        "exclude": false
+    },
+    {
+        "id": "673efe6f69694279c09c6d07",
+        "group": "Hospitality",
+        "industry": "Hospitality",
+        "exclude": false
+    },
+    {
+        "id": "673efe6d69694279c09c6d03",
+        "group": "Hospitality",
+        "industry": "Hotels and Motels",
+        "exclude": false
+    },
+    {
+        "id": "673efe6e69694279c09c6d05",
+        "group": "Hospitality",
+        "industry": "Pharmaceutical Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe7069694279c09c6d09",
+        "group": "Hospitality",
+        "industry": "Public Safety",
+        "exclude": false
+    },
+    {
+        "id": "673efe7169694279c09c6d0a",
+        "group": "Human resources",
+        "industry": "Human Resources Services",
+        "exclude": false
+    },
+    {
+        "id": "673efe7169694279c09c6d0b",
+        "group": "Human resources",
+        "industry": "Staffing and Recruiting",
+        "exclude": false
+    },
+    {
+        "id": "673efe7569694279c09c6d14",
+        "group": "Information Technology",
+        "industry": "Animation and Post-production",
+        "exclude": false
+    },
+    {
+        "id": "673efe7769694279c09c6d1a",
+        "group": "Information Technology",
+        "industry": "Business Intelligence Platforms",
+        "exclude": false
+    },
+    {
+        "id": "673efe7869694279c09c6d1c",
+        "group": "Information Technology",
+        "industry": "Climate Data and Analytics",
+        "exclude": false
+    },
+    {
+        "id": "673efe7569694279c09c6d13",
+        "group": "Information Technology",
+        "industry": "Computer Games",
+        "exclude": false
+    },
+    {
+        "id": "673efe7d69694279c09c6d28",
+        "group": "Information Technology",
+        "industry": "Computer Hardware Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe7969694279c09c6d1e",
+        "group": "Information Technology",
+        "industry": "Computer Networking Products",
+        "exclude": false
+    },
+    {
+        "id": "673efe7369694279c09c6d0f",
+        "group": "Information Technology",
+        "industry": "Computer and Network Security",
+        "exclude": false
+    },
+    {
+        "id": "673efe7769694279c09c6d18",
+        "group": "Information Technology",
+        "industry": "Computers and Electronics Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe7a69694279c09c6d20",
+        "group": "Information Technology",
+        "industry": "Data Security Software Products",
+        "exclude": false
+    },
+    {
+        "id": "673efe7369694279c09c6d0e",
+        "group": "Information Technology",
+        "industry": "Desktop Computing Software Products",
+        "exclude": false
+    },
+    {
+        "id": "673efe7969694279c09c6d1f",
+        "group": "Information Technology",
+        "industry": "Digital Accessibility Services",
+        "exclude": false
+    },
+    {
+        "id": "673efe7569694279c09c6d15",
+        "group": "Information Technology",
+        "industry": "Embedded Software Products",
+        "exclude": false
+    },
+    {
+        "id": "673efe7969694279c09c6d1d",
+        "group": "Information Technology",
+        "industry": "Graphic Design",
+        "exclude": false
+    },
+    {
+        "id": "673efe7269694279c09c6d0c",
+        "group": "Information Technology",
+        "industry": "IT Services and IT Consulting",
+        "exclude": false
+    },
+    {
+        "id": "673efe7369694279c09c6d0d",
+        "group": "Information Technology",
+        "industry": "IT System Custom Software Development",
+        "exclude": false
+    },
+    {
+        "id": "673efe7c69694279c09c6d25",
+        "group": "Information Technology",
+        "industry": "IT System Data Services",
+        "exclude": false
+    },
+    {
+        "id": "673efe7b69694279c09c6d22",
+        "group": "Information Technology",
+        "industry": "IT System Design Services",
+        "exclude": false
+    },
+    {
+        "id": "673efe7e69694279c09c6d29",
+        "group": "Information Technology",
+        "industry": "IT System Installation and Disposal",
+        "exclude": false
+    },
+    {
+        "id": "673efe7769694279c09c6d19",
+        "group": "Information Technology",
+        "industry": "IT System Operations and Maintenance",
+        "exclude": false
+    },
+    {
+        "id": "673efe7d69694279c09c6d26",
+        "group": "Information Technology",
+        "industry": "IT System Testing and Evaluation",
+        "exclude": false
+    },
+    {
+        "id": "673efe7469694279c09c6d11",
+        "group": "Information Technology",
+        "industry": "IT System Training and Support",
+        "exclude": false
+    },
+    {
+        "id": "673efe7b69694279c09c6d24",
+        "group": "Information Technology",
+        "industry": "Internet Marketplace Platforms",
+        "exclude": false
+    },
+    {
+        "id": "673efe7369694279c09c6d10",
+        "group": "Information Technology",
+        "industry": "Mobile Computing Software Products",
+        "exclude": false
+    },
+    {
+        "id": "673efe7669694279c09c6d16",
+        "group": "Information Technology",
+        "industry": "Outsourcing and Offshoring Consulting",
+        "exclude": false
+    },
+    {
+        "id": "673efe7d69694279c09c6d27",
+        "group": "Information Technology",
+        "industry": "Robotics Engineering",
+        "exclude": false
+    },
+    {
+        "id": "673efe7a69694279c09c6d21",
+        "group": "Information Technology",
+        "industry": "Software Development",
+        "exclude": false
+    },
+    {
+        "id": "673efe7869694279c09c6d1b",
+        "group": "Information Technology",
+        "industry": "Technology, Information and Internet",
+        "exclude": false
+    },
+    {
+        "id": "673efe7669694279c09c6d17",
+        "group": "Information Technology",
+        "industry": "Technology, Information and Media",
+        "exclude": false
+    },
+    {
+        "id": "673efe7b69694279c09c6d23",
+        "group": "Information Technology",
+        "industry": "Telephone Call Centers",
+        "exclude": false
+    },
+    {
+        "id": "673efe7469694279c09c6d12",
+        "group": "Information Technology",
+        "industry": "Translation and Localization",
+        "exclude": false
+    },
+    {
+        "id": "673efe7e69694279c09c6d2a",
+        "group": "Information technology",
+        "industry": "Data Infrastructure and Analytics",
+        "exclude": false
+    },
+    {
+        "id": "673efe7f69694279c09c6d2b",
+        "group": "Law",
+        "industry": "Courts of Law",
+        "exclude": false
+    },
+    {
+        "id": "673efe8069694279c09c6d2d",
+        "group": "Law",
+        "industry": "Law Enforcement",
+        "exclude": false
+    },
+    {
+        "id": "673efe7f69694279c09c6d2c",
+        "group": "Law",
+        "industry": "Law Practice",
+        "exclude": false
+    },
+    {
+        "id": "673efe8169694279c09c6d2f",
+        "group": "Legal",
+        "industry": "Alternative Dispute Resolution",
+        "exclude": false
+    },
+    {
+        "id": "673efe8069694279c09c6d2e",
+        "group": "Legal",
+        "industry": "Legal Services",
+        "exclude": false
+    },
+    {
+        "id": "673efe8169694279c09c6d30",
+        "group": "Legal",
+        "industry": "Legislative Offices",
+        "exclude": false
+    },
+    {
+        "id": "673efe8669694279c09c6d36",
+        "group": "Logistics and transport",
+        "industry": "Fisheries",
+        "exclude": false
+    },
+    {
+        "id": "673efe8269694279c09c6d31",
+        "group": "Logistics and transport",
+        "industry": "Ground Passenger Transportation",
+        "exclude": false
+    },
+    {
+        "id": "673efe8369694279c09c6d33",
+        "group": "Logistics and transport",
+        "industry": "Interurban and Rural Bus Services",
+        "exclude": false
+    },
+    {
+        "id": "673efe8b69694279c09c6d3d",
+        "group": "Logistics and transport",
+        "industry": "Maritime Transportation",
+        "exclude": false
+    },
+    {
+        "id": "673efe8969694279c09c6d3b",
+        "group": "Logistics and transport",
+        "industry": "Pipeline Transportation",
+        "exclude": false
+    },
+    {
+        "id": "673efe8469694279c09c6d34",
+        "group": "Logistics and transport",
+        "industry": "Rail Transportation",
+        "exclude": false
+    },
+    {
+        "id": "673efe8669694279c09c6d37",
+        "group": "Logistics and transport",
+        "industry": "School and Employee Bus Services",
+        "exclude": false
+    },
+    {
+        "id": "673efe8969694279c09c6d3a",
+        "group": "Logistics and transport",
+        "industry": "Shuttles and Special Needs Transportation Services",
+        "exclude": false
+    },
+    {
+        "id": "673efe8e69694279c09c6d40",
+        "group": "Logistics and transport",
+        "industry": "Sightseeing Transportation",
+        "exclude": false
+    },
+    {
+        "id": "673efe8569694279c09c6d35",
+        "group": "Logistics and transport",
+        "industry": "Taxi and Limousine Services",
+        "exclude": false
+    },
+    {
+        "id": "673efe8769694279c09c6d38",
+        "group": "Logistics and transport",
+        "industry": "Transportation Equipment Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe8d69694279c09c6d3f",
+        "group": "Logistics and transport",
+        "industry": "Transportation Programs",
+        "exclude": false
+    },
+    {
+        "id": "673efe8a69694279c09c6d3c",
+        "group": "Logistics and transport",
+        "industry": "Transportation, Logistics, Supply Chain and Storage",
+        "exclude": false
+    },
+    {
+        "id": "673efe8b69694279c09c6d3e",
+        "group": "Logistics and transport",
+        "industry": "Truck Transportation",
+        "exclude": false
+    },
+    {
+        "id": "673efe8369694279c09c6d32",
+        "group": "Logistics and transport",
+        "industry": "Urban Transit Services",
+        "exclude": false
+    },
+    {
+        "id": "673efe8869694279c09c6d39",
+        "group": "Logistics and transport",
+        "industry": "Wholesale Import and Export",
+        "exclude": false
+    },
+    {
+        "id": "673efe8e69694279c09c6d42",
+        "group": "Manufacturing",
+        "industry": "Abrasives and Nonmetallic Minerals Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe9c69694279c09c6d4f",
+        "group": "Manufacturing",
+        "industry": "Accessible Hardware Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe9c69694279c09c6d50",
+        "group": "Manufacturing",
+        "industry": "Agriculture, Construction, Mining Machinery Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe9769694279c09c6d49",
+        "group": "Manufacturing",
+        "industry": "Alternative Fuel Vehicle Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efead69694279c09c6d6e",
+        "group": "Manufacturing",
+        "industry": "Appliances, Electrical, and Electronics Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe9369694279c09c6d46",
+        "group": "Manufacturing",
+        "industry": "Architectural and Structural Metal Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efea469694279c09c6d60",
+        "group": "Manufacturing",
+        "industry": "Artificial Rubber and Synthetic Fiber Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efea669694279c09c6d61",
+        "group": "Manufacturing",
+        "industry": "Audio and Video Equipment Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efeae69694279c09c6d70",
+        "group": "Manufacturing",
+        "industry": "Automation Machinery Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe9569694279c09c6d47",
+        "group": "Manufacturing",
+        "industry": "Boilers, Tanks, and Shipping Container Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efea969694279c09c6d66",
+        "group": "Manufacturing",
+        "industry": "Clay and Refractory Products Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe9a69694279c09c6d4b",
+        "group": "Manufacturing",
+        "industry": "Climate Technology Product Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efea769694279c09c6d63",
+        "group": "Manufacturing",
+        "industry": "Communications Equipment Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe9d69694279c09c6d52",
+        "group": "Manufacturing",
+        "industry": "Construction Hardware Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe9269694279c09c6d45",
+        "group": "Manufacturing",
+        "industry": "Cutlery and Handtool Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe9d69694279c09c6d53",
+        "group": "Manufacturing",
+        "industry": "Electric Lighting Equipment Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efea769694279c09c6d62",
+        "group": "Manufacturing",
+        "industry": "Electrical Equipment Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe9e69694279c09c6d56",
+        "group": "Manufacturing",
+        "industry": "Engines and Power Transmission Equipment Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efea069694279c09c6d5a",
+        "group": "Manufacturing",
+        "industry": "Footwear Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe9669694279c09c6d48",
+        "group": "Manufacturing",
+        "industry": "Fuel Cell Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe8e69694279c09c6d41",
+        "group": "Manufacturing",
+        "industry": "Furniture and Home Furnishings Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe9e69694279c09c6d55",
+        "group": "Manufacturing",
+        "industry": "Glass Product Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efeaf69694279c09c6d72",
+        "group": "Manufacturing",
+        "industry": "Glass, Ceramics and Concrete Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe9d69694279c09c6d51",
+        "group": "Manufacturing",
+        "industry": "HVAC and Refrigeration Equipment Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe8f69694279c09c6d43",
+        "group": "Manufacturing",
+        "industry": "Household Appliance Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efeae69694279c09c6d71",
+        "group": "Manufacturing",
+        "industry": "Industrial Machinery Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efea069694279c09c6d59",
+        "group": "Manufacturing",
+        "industry": "Leather Product Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efeaa69694279c09c6d67",
+        "group": "Manufacturing",
+        "industry": "Lime and Gypsum Products Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efeac69694279c09c6d6d",
+        "group": "Manufacturing",
+        "industry": "Machinery Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe9f69694279c09c6d57",
+        "group": "Manufacturing",
+        "industry": "Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efeab69694279c09c6d6b",
+        "group": "Manufacturing",
+        "industry": "Mattress and Blinds Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efea369694279c09c6d5f",
+        "group": "Manufacturing",
+        "industry": "Measuring and Control Instrument Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe9b69694279c09c6d4d",
+        "group": "Manufacturing",
+        "industry": "Metal Valve, Ball, and Roller Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efeaa69694279c09c6d68",
+        "group": "Manufacturing",
+        "industry": "Metalworking Machinery Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efeae69694279c09c6d6f",
+        "group": "Manufacturing",
+        "industry": "Motor Vehicle Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efea269694279c09c6d5d",
+        "group": "Manufacturing",
+        "industry": "Motor Vehicle Parts Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efeaa69694279c09c6d69",
+        "group": "Manufacturing",
+        "industry": "Office Furniture and Fixtures Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efea869694279c09c6d64",
+        "group": "Manufacturing",
+        "industry": "Paint, Coating, and Adhesive Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efeac69694279c09c6d6c",
+        "group": "Manufacturing",
+        "industry": "Paper and Forest Product Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efea169694279c09c6d5c",
+        "group": "Manufacturing",
+        "industry": "Personal Care Product Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe9169694279c09c6d44",
+        "group": "Manufacturing",
+        "industry": "Primary Metal Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efeaf69694279c09c6d73",
+        "group": "Manufacturing",
+        "industry": "Railroad Equipment Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efea369694279c09c6d5e",
+        "group": "Manufacturing",
+        "industry": "Renewable Energy Equipment Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe9b69694279c09c6d4e",
+        "group": "Manufacturing",
+        "industry": "Robot Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe9f69694279c09c6d58",
+        "group": "Manufacturing",
+        "industry": "Semiconductor Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efeab69694279c09c6d6a",
+        "group": "Manufacturing",
+        "industry": "Shipbuilding",
+        "exclude": false
+    },
+    {
+        "id": "673efea969694279c09c6d65",
+        "group": "Manufacturing",
+        "industry": "Soap and Cleaning Product Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe9a69694279c09c6d4a",
+        "group": "Manufacturing",
+        "industry": "Spring and Wire Product Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe9b69694279c09c6d4c",
+        "group": "Manufacturing",
+        "industry": "Turned Products and Fastener Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efea169694279c09c6d5b",
+        "group": "Manufacturing",
+        "industry": "Women's Handbag Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efe9e69694279c09c6d54",
+        "group": "Manufacturing",
+        "industry": "Wood Product Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efeb069694279c09c6d75",
+        "group": "Marketing",
+        "industry": "Market Research",
+        "exclude": false
+    },
+    {
+        "id": "673efeb069694279c09c6d74",
+        "group": "Marketing",
+        "industry": "Marketing Services",
+        "exclude": false
+    },
+    {
+        "id": "673efeb969694279c09c6d86",
+        "group": "Media",
+        "industry": "Artists and Writers",
+        "exclude": false
+    },
+    {
+        "id": "673efeb369694279c09c6d7b",
+        "group": "Media",
+        "industry": "Blogs",
+        "exclude": false
+    },
+    {
+        "id": "673efeb669694279c09c6d81",
+        "group": "Media",
+        "industry": "Book Publishing",
+        "exclude": false
+    },
+    {
+        "id": "673efeb769694279c09c6d83",
+        "group": "Media",
+        "industry": "Book and Periodical Publishing",
+        "exclude": false
+    },
+    {
+        "id": "673efeb769694279c09c6d84",
+        "group": "Media",
+        "industry": "Broadcast Media Production and Distribution",
+        "exclude": false
+    },
+    {
+        "id": "673efeb869694279c09c6d85",
+        "group": "Media",
+        "industry": "Business Content",
+        "exclude": false
+    },
+    {
+        "id": "673efeb569694279c09c6d7e",
+        "group": "Media",
+        "industry": "Internet News",
+        "exclude": false
+    },
+    {
+        "id": "673efeb469694279c09c6d7c",
+        "group": "Media",
+        "industry": "Internet Publishing",
+        "exclude": false
+    },
+    {
+        "id": "673efeb669694279c09c6d80",
+        "group": "Media",
+        "industry": "Libraries",
+        "exclude": false
+    },
+    {
+        "id": "673efeb369694279c09c6d7a",
+        "group": "Media",
+        "industry": "Magnetic and Optical Media Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efeb469694279c09c6d7d",
+        "group": "Media",
+        "industry": "Media Production",
+        "exclude": false
+    },
+    {
+        "id": "673efeba69694279c09c6d87",
+        "group": "Media",
+        "industry": "Media and Telecommunications",
+        "exclude": false
+    },
+    {
+        "id": "673efeb169694279c09c6d77",
+        "group": "Media",
+        "industry": "Newspaper Publishing",
+        "exclude": false
+    },
+    {
+        "id": "673efeb169694279c09c6d76",
+        "group": "Media",
+        "industry": "Periodical Publishing",
+        "exclude": false
+    },
+    {
+        "id": "673efeb269694279c09c6d78",
+        "group": "Media",
+        "industry": "Printing Services",
+        "exclude": false
+    },
+    {
+        "id": "673efeb569694279c09c6d7f",
+        "group": "Media",
+        "industry": "Retail Books and Printed News",
+        "exclude": false
+    },
+    {
+        "id": "673efeb269694279c09c6d79",
+        "group": "Media",
+        "industry": "Social Networking Platforms",
+        "exclude": false
+    },
+    {
+        "id": "673efeb669694279c09c6d82",
+        "group": "Media",
+        "industry": "Writing and Editing",
+        "exclude": false
+    },
+    {
+        "id": "673efebe69694279c09c6d8b",
+        "group": "Mining and metals",
+        "industry": "Coal Mining",
+        "exclude": false
+    },
+    {
+        "id": "673efebd69694279c09c6d8a",
+        "group": "Mining and metals",
+        "industry": "Fabricated Metal Products",
+        "exclude": false
+    },
+    {
+        "id": "673efeba69694279c09c6d88",
+        "group": "Mining and metals",
+        "industry": "Metal Ore Mining",
+        "exclude": false
+    },
+    {
+        "id": "673efebe69694279c09c6d8d",
+        "group": "Mining and metals",
+        "industry": "Metal Treatments",
+        "exclude": false
+    },
+    {
+        "id": "673efebf69694279c09c6d8e",
+        "group": "Mining and metals",
+        "industry": "Mining",
+        "exclude": false
+    },
+    {
+        "id": "673efebc69694279c09c6d89",
+        "group": "Mining and metals",
+        "industry": "Nonmetallic Mineral Mining",
+        "exclude": false
+    },
+    {
+        "id": "673efebe69694279c09c6d8c",
+        "group": "Mining and metals",
+        "industry": "Wholesale Metals and Minerals",
+        "exclude": false
+    },
+    {
+        "id": "673efebf69694279c09c6d8f",
+        "group": "Nanotechnogoly",
+        "industry": "Nanotechnology Research",
+        "exclude": false
+    },
+    {
+        "id": "673efec069694279c09c6d90",
+        "group": "Non profit",
+        "industry": "Non-profit Organizations",
+        "exclude": false
+    },
+    {
+        "id": "673efec769694279c09c6d9b",
+        "group": "Oil and energy",
+        "industry": "Biomass Electric Power Generation",
+        "exclude": false
+    },
+    {
+        "id": "673efec669694279c09c6d98",
+        "group": "Oil and energy",
+        "industry": "Electric Power Generation",
+        "exclude": false
+    },
+    {
+        "id": "673efec669694279c09c6d9a",
+        "group": "Oil and energy",
+        "industry": "Electric Power Transmission, Control, and Distribution",
+        "exclude": false
+    },
+    {
+        "id": "673efec269694279c09c6d95",
+        "group": "Oil and energy",
+        "industry": "Fossil Fuel Electric Power Generation",
+        "exclude": false
+    },
+    {
+        "id": "673efec069694279c09c6d91",
+        "group": "Oil and energy",
+        "industry": "Geothermal Electric Power Generation",
+        "exclude": false
+    },
+    {
+        "id": "673efec469694279c09c6d97",
+        "group": "Oil and energy",
+        "industry": "Hydroelectric Power Generation",
+        "exclude": false
+    },
+    {
+        "id": "673efec269694279c09c6d94",
+        "group": "Oil and energy",
+        "industry": "Natural Gas Distribution",
+        "exclude": false
+    },
+    {
+        "id": "673efeca69694279c09c6da2",
+        "group": "Oil and energy",
+        "industry": "Natural Gas Extraction",
+        "exclude": false
+    },
+    {
+        "id": "673efec169694279c09c6d93",
+        "group": "Oil and energy",
+        "industry": "Nuclear Electric Power Generation",
+        "exclude": false
+    },
+    {
+        "id": "673efeca69694279c09c6da1",
+        "group": "Oil and energy",
+        "industry": "Oil Extraction",
+        "exclude": false
+    },
+    {
+        "id": "673efeca69694279c09c6da0",
+        "group": "Oil and energy",
+        "industry": "Oil and Coal Product Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efec869694279c09c6d9e",
+        "group": "Oil and energy",
+        "industry": "Oil and Gas",
+        "exclude": false
+    },
+    {
+        "id": "673efec869694279c09c6d9d",
+        "group": "Oil and energy",
+        "industry": "Oil, Gas, and Mining",
+        "exclude": false
+    },
+    {
+        "id": "673efec869694279c09c6d9c",
+        "group": "Oil and energy",
+        "industry": "Renewable Energy Power Generation",
+        "exclude": false
+    },
+    {
+        "id": "673efec369694279c09c6d96",
+        "group": "Oil and energy",
+        "industry": "Services for Renewable Energy",
+        "exclude": false
+    },
+    {
+        "id": "673efec169694279c09c6d92",
+        "group": "Oil and energy",
+        "industry": "Solar Electric Power Generation",
+        "exclude": false
+    },
+    {
+        "id": "673efec969694279c09c6d9f",
+        "group": "Oil and energy",
+        "industry": "Wholesale Petroleum and Petroleum Products",
+        "exclude": false
+    },
+    {
+        "id": "673efec669694279c09c6d99",
+        "group": "Oil and energy",
+        "industry": "Wind Electric Power Generation",
+        "exclude": false
+    },
+    {
+        "id": "673efece69694279c09c6da9",
+        "group": "Others",
+        "industry": "Biotechnology Research",
+        "exclude": false
+    },
+    {
+        "id": "673efecb69694279c09c6da3",
+        "group": "Others",
+        "industry": "Holding Companies",
+        "exclude": false
+    },
+    {
+        "id": "673efecd69694279c09c6da8",
+        "group": "Others",
+        "industry": "Industry Associations",
+        "exclude": false
+    },
+    {
+        "id": "673efecb69694279c09c6da4",
+        "group": "Others",
+        "industry": "Performing Arts",
+        "exclude": false
+    },
+    {
+        "id": "673efecd69694279c09c6da7",
+        "group": "Others",
+        "industry": "Religious Institutions",
+        "exclude": false
+    },
+    {
+        "id": "673efecc69694279c09c6da6",
+        "group": "Others",
+        "industry": "Think Tanks",
+        "exclude": false
+    },
+    {
+        "id": "673efecc69694279c09c6da5",
+        "group": "Others",
+        "industry": "Waste Treatment and Disposal",
+        "exclude": false
+    },
+    {
+        "id": "673efece69694279c09c6dab",
+        "group": "Packaging",
+        "industry": "Freight and Package Transportation",
+        "exclude": false
+    },
+    {
+        "id": "673efece69694279c09c6daa",
+        "group": "Packaging",
+        "industry": "Packaging and Containers Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efecf69694279c09c6dac",
+        "group": "Plastics",
+        "industry": "Plastics Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efed169694279c09c6dae",
+        "group": "Plastics",
+        "industry": "Plastics and Rubber Product Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efecf69694279c09c6dad",
+        "group": "Plastics",
+        "industry": "Rubber Products Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efed169694279c09c6daf",
+        "group": "Real Estate",
+        "industry": "Building Structure and Exterior Contractors",
+        "exclude": false
+    },
+    {
+        "id": "673efed269694279c09c6db0",
+        "group": "Real Estate",
+        "industry": "Highway, Street, and Bridge Construction",
+        "exclude": false
+    },
+    {
+        "id": "673efeda69694279c09c6dc0",
+        "group": "Real estate",
+        "industry": "Accessible Architecture and Design",
+        "exclude": false
+    },
+    {
+        "id": "673efed869694279c09c6dbe",
+        "group": "Real estate",
+        "industry": "Architecture and Planning",
+        "exclude": false
+    },
+    {
+        "id": "673efed469694279c09c6db4",
+        "group": "Real estate",
+        "industry": "Building Equipment Contractors",
+        "exclude": false
+    },
+    {
+        "id": "673efed769694279c09c6dbb",
+        "group": "Real estate",
+        "industry": "Building Finishing Contractors",
+        "exclude": false
+    },
+    {
+        "id": "673efed369694279c09c6db3",
+        "group": "Real estate",
+        "industry": "Civil Engineering",
+        "exclude": false
+    },
+    {
+        "id": "673efed769694279c09c6dba",
+        "group": "Real estate",
+        "industry": "Commercial and Service Industry Machinery Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efedb69694279c09c6dc4",
+        "group": "Real estate",
+        "industry": "Community Development and Urban Planning",
+        "exclude": false
+    },
+    {
+        "id": "673efeda69694279c09c6dc1",
+        "group": "Real estate",
+        "industry": "Construction",
+        "exclude": false
+    },
+    {
+        "id": "673efedb69694279c09c6dc3",
+        "group": "Real estate",
+        "industry": "Housing and Community Development",
+        "exclude": false
+    },
+    {
+        "id": "673efed669694279c09c6db8",
+        "group": "Real estate",
+        "industry": "Interior Design",
+        "exclude": false
+    },
+    {
+        "id": "673efed669694279c09c6db9",
+        "group": "Real estate",
+        "industry": "Leasing Non-residential Real Estate",
+        "exclude": false
+    },
+    {
+        "id": "673efed469694279c09c6db5",
+        "group": "Real estate",
+        "industry": "Leasing Residential Real Estate",
+        "exclude": false
+    },
+    {
+        "id": "673efedc69694279c09c6dc5",
+        "group": "Real estate",
+        "industry": "Nonresidential Building Construction",
+        "exclude": false
+    },
+    {
+        "id": "673efed969694279c09c6dbf",
+        "group": "Real estate",
+        "industry": "Real Estate",
+        "exclude": false
+    },
+    {
+        "id": "673efed569694279c09c6db7",
+        "group": "Real estate",
+        "industry": "Real Estate Agents and Brokers",
+        "exclude": false
+    },
+    {
+        "id": "673efed569694279c09c6db6",
+        "group": "Real estate",
+        "industry": "Real Estate and Equipment Rental Services",
+        "exclude": false
+    },
+    {
+        "id": "673efed869694279c09c6dbd",
+        "group": "Real estate",
+        "industry": "Residential Building Construction",
+        "exclude": false
+    },
+    {
+        "id": "673efed369694279c09c6db1",
+        "group": "Real estate",
+        "industry": "Subdivision of Land",
+        "exclude": false
+    },
+    {
+        "id": "673efed369694279c09c6db2",
+        "group": "Real estate",
+        "industry": "Trusts and Estates",
+        "exclude": false
+    },
+    {
+        "id": "673efed869694279c09c6dbc",
+        "group": "Real estate",
+        "industry": "Utility System Construction",
+        "exclude": false
+    },
+    {
+        "id": "673efeda69694279c09c6dc2",
+        "group": "Real estate",
+        "industry": "Wholesale Building Materials",
+        "exclude": false
+    },
+    {
+        "id": "673efede69694279c09c6dc7",
+        "group": "Repair and Maintenance",
+        "industry": "Commercial and Industrial Machinery Maintenance",
+        "exclude": false
+    },
+    {
+        "id": "673efede69694279c09c6dc8",
+        "group": "Repair and Maintenance",
+        "industry": "Electronic and Precision Equipment Maintenance",
+        "exclude": false
+    },
+    {
+        "id": "673efedd69694279c09c6dc6",
+        "group": "Repair and Maintenance",
+        "industry": "Footwear and Leather Goods Repair",
+        "exclude": false
+    },
+    {
+        "id": "673efedf69694279c09c6dca",
+        "group": "Repair and Maintenance",
+        "industry": "Repair and Maintenance",
+        "exclude": false
+    },
+    {
+        "id": "673efede69694279c09c6dc9",
+        "group": "Repair and Maintenance",
+        "industry": "Reupholstery and Furniture Repair",
+        "exclude": false
+    },
+    {
+        "id": "673efedf69694279c09c6dcb",
+        "group": "Repair and Maintenance",
+        "industry": "Vehicle Repair and Maintenance",
+        "exclude": false
+    },
+    {
+        "id": "673efee069694279c09c6dcc",
+        "group": "Restaurants",
+        "industry": "Restaurants",
+        "exclude": false
+    },
+    {
+        "id": "673efefa69694279c09c6df3",
+        "group": "Retail",
+        "industry": "Apparel Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efef869694279c09c6ded",
+        "group": "Retail",
+        "industry": "Building Construction",
+        "exclude": false
+    },
+    {
+        "id": "673efee769694279c09c6dd8",
+        "group": "Retail",
+        "industry": "Consumer Goods Rental",
+        "exclude": false
+    },
+    {
+        "id": "673efeed69694279c09c6de1",
+        "group": "Retail",
+        "industry": "Fashion Accessories Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efefb69694279c09c6df4",
+        "group": "Retail",
+        "industry": "Online and Mail Order Retail",
+        "exclude": false
+    },
+    {
+        "id": "673efef469694279c09c6de9",
+        "group": "Retail",
+        "industry": "Retail",
+        "exclude": false
+    },
+    {
+        "id": "673efee269694279c09c6dd0",
+        "group": "Retail",
+        "industry": "Retail Apparel and Fashion",
+        "exclude": false
+    },
+    {
+        "id": "673efefa69694279c09c6df2",
+        "group": "Retail",
+        "industry": "Retail Appliances, Electrical, and Electronic Equipment",
+        "exclude": false
+    },
+    {
+        "id": "673efef869694279c09c6def",
+        "group": "Retail",
+        "industry": "Retail Art Dealers",
+        "exclude": false
+    },
+    {
+        "id": "673efee569694279c09c6dd5",
+        "group": "Retail",
+        "industry": "Retail Art Supplies",
+        "exclude": false
+    },
+    {
+        "id": "673efef969694279c09c6df0",
+        "group": "Retail",
+        "industry": "Retail Building Materials and Garden Equipment",
+        "exclude": false
+    },
+    {
+        "id": "673efef869694279c09c6dee",
+        "group": "Retail",
+        "industry": "Retail Florists",
+        "exclude": false
+    },
+    {
+        "id": "673efefa69694279c09c6df1",
+        "group": "Retail",
+        "industry": "Retail Furniture and Home Furnishings",
+        "exclude": false
+    },
+    {
+        "id": "673efef069694279c09c6de6",
+        "group": "Retail",
+        "industry": "Retail Gasoline",
+        "exclude": false
+    },
+    {
+        "id": "673efefb69694279c09c6df5",
+        "group": "Retail",
+        "industry": "Retail Groceries",
+        "exclude": false
+    },
+    {
+        "id": "673efeed69694279c09c6de3",
+        "group": "Retail",
+        "industry": "Retail Health and Personal Care Products",
+        "exclude": false
+    },
+    {
+        "id": "673efee369694279c09c6dd1",
+        "group": "Retail",
+        "industry": "Retail Luxury Goods and Jewelry",
+        "exclude": false
+    },
+    {
+        "id": "673efee169694279c09c6dce",
+        "group": "Retail",
+        "industry": "Retail Motor Vehicles",
+        "exclude": false
+    },
+    {
+        "id": "673efeef69694279c09c6de5",
+        "group": "Retail",
+        "industry": "Retail Musical Instruments",
+        "exclude": false
+    },
+    {
+        "id": "673efef669694279c09c6deb",
+        "group": "Retail",
+        "industry": "Retail Office Equipment",
+        "exclude": false
+    },
+    {
+        "id": "673efef569694279c09c6dea",
+        "group": "Retail",
+        "industry": "Retail Office Supplies and Gifts",
+        "exclude": false
+    },
+    {
+        "id": "673efee669694279c09c6dd7",
+        "group": "Retail",
+        "industry": "Retail Pharmacies",
+        "exclude": false
+    },
+    {
+        "id": "673efef669694279c09c6dec",
+        "group": "Retail",
+        "industry": "Retail Recyclable Materials & Used Merchandise",
+        "exclude": false
+    },
+    {
+        "id": "673efeec69694279c09c6ddf",
+        "group": "Retail",
+        "industry": "Smart Meter Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673efee269694279c09c6dcf",
+        "group": "Retail",
+        "industry": "Warehousing and Storage",
+        "exclude": false
+    },
+    {
+        "id": "673efef169694279c09c6de8",
+        "group": "Retail",
+        "industry": "Wholesale",
+        "exclude": false
+    },
+    {
+        "id": "673efee969694279c09c6ddd",
+        "group": "Retail",
+        "industry": "Wholesale Apparel and Sewing Supplies",
+        "exclude": false
+    },
+    {
+        "id": "673efee869694279c09c6ddb",
+        "group": "Retail",
+        "industry": "Wholesale Appliances, Electrical, and Electronics",
+        "exclude": false
+    },
+    {
+        "id": "673efee369694279c09c6dd2",
+        "group": "Retail",
+        "industry": "Wholesale Chemical and Allied Products",
+        "exclude": false
+    },
+    {
+        "id": "673efef169694279c09c6de7",
+        "group": "Retail",
+        "industry": "Wholesale Computer Equipment",
+        "exclude": false
+    },
+    {
+        "id": "673efeeb69694279c09c6dde",
+        "group": "Retail",
+        "industry": "Wholesale Drugs and Sundries",
+        "exclude": false
+    },
+    {
+        "id": "673efee869694279c09c6dda",
+        "group": "Retail",
+        "industry": "Wholesale Footwear",
+        "exclude": false
+    },
+    {
+        "id": "673efee069694279c09c6dcd",
+        "group": "Retail",
+        "industry": "Wholesale Furniture and Home Furnishings",
+        "exclude": false
+    },
+    {
+        "id": "673efee469694279c09c6dd4",
+        "group": "Retail",
+        "industry": "Wholesale Hardware, Plumbing, Heating Equipment",
+        "exclude": false
+    },
+    {
+        "id": "673efeec69694279c09c6de0",
+        "group": "Retail",
+        "industry": "Wholesale Luxury Goods and Jewelry",
+        "exclude": false
+    },
+    {
+        "id": "673efeed69694279c09c6de2",
+        "group": "Retail",
+        "industry": "Wholesale Machinery",
+        "exclude": false
+    },
+    {
+        "id": "673efee769694279c09c6dd9",
+        "group": "Retail",
+        "industry": "Wholesale Motor Vehicles and Parts",
+        "exclude": false
+    },
+    {
+        "id": "673efee569694279c09c6dd6",
+        "group": "Retail",
+        "industry": "Wholesale Paper Products",
+        "exclude": false
+    },
+    {
+        "id": "673efeee69694279c09c6de4",
+        "group": "Retail",
+        "industry": "Wholesale Photography Equipment and Supplies",
+        "exclude": false
+    },
+    {
+        "id": "673efee469694279c09c6dd3",
+        "group": "Retail",
+        "industry": "Wholesale Raw Farm Products",
+        "exclude": false
+    },
+    {
+        "id": "673efee969694279c09c6ddc",
+        "group": "Retail",
+        "industry": "Wholesale Recyclable Materials",
+        "exclude": false
+    },
+    {
+        "id": "673efefc69694279c09c6df6",
+        "group": "Security and Investigations",
+        "industry": "Security and Investigations",
+        "exclude": false
+    },
+    {
+        "id": "673efefc69694279c09c6df7",
+        "group": "Security and investigations",
+        "industry": "Securities and Commodity Exchanges",
+        "exclude": false
+    },
+    {
+        "id": "673efefd69694279c09c6df8",
+        "group": "Security and investigations",
+        "industry": "Security Guards and Patrol Services",
+        "exclude": false
+    },
+    {
+        "id": "673efefd69694279c09c6df9",
+        "group": "Security and investigations",
+        "industry": "Security Systems Services",
+        "exclude": false
+    },
+    {
+        "id": "673eff0669694279c09c6e08",
+        "group": "Services",
+        "industry": "Administrative and Support Services",
+        "exclude": false
+    },
+    {
+        "id": "673eff0169694279c09c6e00",
+        "group": "Services",
+        "industry": "Advertising Services",
+        "exclude": false
+    },
+    {
+        "id": "673efefe69694279c09c6dfa",
+        "group": "Services",
+        "industry": "Blockchain Services",
+        "exclude": false
+    },
+    {
+        "id": "673eff0569694279c09c6e05",
+        "group": "Services",
+        "industry": "Business Consulting and Services",
+        "exclude": false
+    },
+    {
+        "id": "673efefe69694279c09c6dfb",
+        "group": "Services",
+        "industry": "Child Day Care Services",
+        "exclude": false
+    },
+    {
+        "id": "673eff1269694279c09c6e1f",
+        "group": "Services",
+        "industry": "Commercial and Industrial Equipment Rental",
+        "exclude": false
+    },
+    {
+        "id": "673eff0069694279c09c6dfd",
+        "group": "Services",
+        "industry": "Community Services",
+        "exclude": false
+    },
+    {
+        "id": "673eff0c69694279c09c6e16",
+        "group": "Services",
+        "industry": "Consumer Services",
+        "exclude": false
+    },
+    {
+        "id": "673eff0f69694279c09c6e1b",
+        "group": "Services",
+        "industry": "Design Services",
+        "exclude": false
+    },
+    {
+        "id": "673eff0069694279c09c6dff",
+        "group": "Services",
+        "industry": "Emergency and Relief Services",
+        "exclude": false
+    },
+    {
+        "id": "673eff0869694279c09c6e0d",
+        "group": "Services",
+        "industry": "Engineering Services",
+        "exclude": false
+    },
+    {
+        "id": "673eff0a69694279c09c6e10",
+        "group": "Services",
+        "industry": "Environmental Quality Programs",
+        "exclude": false
+    },
+    {
+        "id": "673eff0069694279c09c6dfe",
+        "group": "Services",
+        "industry": "Environmental Services",
+        "exclude": false
+    },
+    {
+        "id": "673eff1169694279c09c6e1e",
+        "group": "Services",
+        "industry": "Equipment Rental Services",
+        "exclude": false
+    },
+    {
+        "id": "673eff0d69694279c09c6e17",
+        "group": "Services",
+        "industry": "Events Services",
+        "exclude": false
+    },
+    {
+        "id": "673eff0669694279c09c6e07",
+        "group": "Services",
+        "industry": "Executive Offices",
+        "exclude": false
+    },
+    {
+        "id": "673eff0869694279c09c6e0c",
+        "group": "Services",
+        "industry": "Executive Search Services",
+        "exclude": false
+    },
+    {
+        "id": "673eff0a69694279c09c6e0f",
+        "group": "Services",
+        "industry": "Facilities Services",
+        "exclude": false
+    },
+    {
+        "id": "673eff0b69694279c09c6e12",
+        "group": "Services",
+        "industry": "Health and Human Services",
+        "exclude": false
+    },
+    {
+        "id": "673eff0b69694279c09c6e13",
+        "group": "Services",
+        "industry": "Household Services",
+        "exclude": false
+    },
+    {
+        "id": "673efeff69694279c09c6dfc",
+        "group": "Services",
+        "industry": "Individual and Family Services",
+        "exclude": false
+    },
+    {
+        "id": "673eff0369694279c09c6e02",
+        "group": "Services",
+        "industry": "Information Services",
+        "exclude": false
+    },
+    {
+        "id": "673eff0769694279c09c6e0b",
+        "group": "Services",
+        "industry": "Janitorial Services",
+        "exclude": false
+    },
+    {
+        "id": "673eff0469694279c09c6e04",
+        "group": "Services",
+        "industry": "Landscaping Services",
+        "exclude": false
+    },
+    {
+        "id": "673eff0c69694279c09c6e15",
+        "group": "Services",
+        "industry": "Laundry and Drycleaning Services",
+        "exclude": false
+    },
+    {
+        "id": "673eff1369694279c09c6e21",
+        "group": "Services",
+        "industry": "Mobile Food Services",
+        "exclude": false
+    },
+    {
+        "id": "673eff0769694279c09c6e09",
+        "group": "Services",
+        "industry": "Office Administration",
+        "exclude": false
+    },
+    {
+        "id": "673eff0b69694279c09c6e11",
+        "group": "Services",
+        "industry": "Operations Consulting",
+        "exclude": false
+    },
+    {
+        "id": "673eff0969694279c09c6e0e",
+        "group": "Services",
+        "industry": "Personal Care Services",
+        "exclude": false
+    },
+    {
+        "id": "673eff0e69694279c09c6e19",
+        "group": "Services",
+        "industry": "Personal and Laundry Services",
+        "exclude": false
+    },
+    {
+        "id": "673eff0c69694279c09c6e14",
+        "group": "Services",
+        "industry": "Pet Services",
+        "exclude": false
+    },
+    {
+        "id": "673eff0269694279c09c6e01",
+        "group": "Services",
+        "industry": "Public Policy Offices",
+        "exclude": false
+    },
+    {
+        "id": "673eff0f69694279c09c6e1c",
+        "group": "Services",
+        "industry": "Public Relations and Communications Services",
+        "exclude": false
+    },
+    {
+        "id": "673eff1069694279c09c6e1d",
+        "group": "Services",
+        "industry": "Recreational Facilities",
+        "exclude": false
+    },
+    {
+        "id": "673eff0669694279c09c6e06",
+        "group": "Services",
+        "industry": "Research Services",
+        "exclude": false
+    },
+    {
+        "id": "673eff0e69694279c09c6e1a",
+        "group": "Services",
+        "industry": "Strategic Management Services",
+        "exclude": false
+    },
+    {
+        "id": "673eff1269694279c09c6e20",
+        "group": "Services",
+        "industry": "Surveying and Mapping Services",
+        "exclude": false
+    },
+    {
+        "id": "673eff0769694279c09c6e0a",
+        "group": "Services",
+        "industry": "Temporary Help Services",
+        "exclude": false
+    },
+    {
+        "id": "673eff0469694279c09c6e03",
+        "group": "Services",
+        "industry": "Vocational Rehabilitation Services",
+        "exclude": false
+    },
+    {
+        "id": "673eff0d69694279c09c6e18",
+        "group": "Services",
+        "industry": "Water, Waste, Steam, and Air Conditioning Services",
+        "exclude": false
+    },
+    {
+        "id": "673eff1a69694279c09c6e2a",
+        "group": "Sports",
+        "industry": "Dance Companies",
+        "exclude": false
+    },
+    {
+        "id": "673eff1869694279c09c6e27",
+        "group": "Sports",
+        "industry": "Gambling Facilities and Casinos",
+        "exclude": false
+    },
+    {
+        "id": "673eff1c69694279c09c6e2c",
+        "group": "Sports",
+        "industry": "Golf Courses and Country Clubs",
+        "exclude": false
+    },
+    {
+        "id": "673eff1469694279c09c6e23",
+        "group": "Sports",
+        "industry": "Mobile Gaming Apps",
+        "exclude": false
+    },
+    {
+        "id": "673eff1969694279c09c6e28",
+        "group": "Sports",
+        "industry": "Performing Arts and Spectator Sports",
+        "exclude": false
+    },
+    {
+        "id": "673eff1a69694279c09c6e29",
+        "group": "Sports",
+        "industry": "Racetracks",
+        "exclude": false
+    },
+    {
+        "id": "673eff1569694279c09c6e24",
+        "group": "Sports",
+        "industry": "Skiing Facilities",
+        "exclude": false
+    },
+    {
+        "id": "673eff1369694279c09c6e22",
+        "group": "Sports",
+        "industry": "Spectator Sports",
+        "exclude": false
+    },
+    {
+        "id": "673eff1c69694279c09c6e2b",
+        "group": "Sports",
+        "industry": "Sporting Goods Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673eff1669694279c09c6e26",
+        "group": "Sports",
+        "industry": "Sports Teams and Clubs",
+        "exclude": false
+    },
+    {
+        "id": "673eff1569694279c09c6e25",
+        "group": "Sports",
+        "industry": "Sports and Recreation Instruction",
+        "exclude": false
+    },
+    {
+        "id": "673eff2269694279c09c6e30",
+        "group": "Telecom",
+        "industry": "Cable and Satellite Programming",
+        "exclude": false
+    },
+    {
+        "id": "673eff2269694279c09c6e31",
+        "group": "Telecom",
+        "industry": "Radio and Television Broadcasting",
+        "exclude": false
+    },
+    {
+        "id": "673eff1e69694279c09c6e2e",
+        "group": "Telecom",
+        "industry": "Satellite Telecommunications",
+        "exclude": false
+    },
+    {
+        "id": "673eff2369694279c09c6e32",
+        "group": "Telecom",
+        "industry": "Telecommunications",
+        "exclude": false
+    },
+    {
+        "id": "673eff2169694279c09c6e2f",
+        "group": "Telecom",
+        "industry": "Telecommunications Carriers",
+        "exclude": false
+    },
+    {
+        "id": "673eff1e69694279c09c6e2d",
+        "group": "Telecom",
+        "industry": "Wireless Services",
+        "exclude": false
+    },
+    {
+        "id": "673eff2569694279c09c6e33",
+        "group": "Textiles",
+        "industry": "Textile Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673eff2669694279c09c6e34",
+        "group": "Tobacco",
+        "industry": "Tobacco Manufacturing",
+        "exclude": false
+    },
+    {
+        "id": "673eff2969694279c09c6e39",
+        "group": "Travel",
+        "industry": "Amusement Parks and Arcades",
+        "exclude": false
+    },
+    {
+        "id": "673eff2869694279c09c6e38",
+        "group": "Travel",
+        "industry": "Historical Sites",
+        "exclude": false
+    },
+    {
+        "id": "673eff2769694279c09c6e35",
+        "group": "Travel",
+        "industry": "Museums, Historical Sites, and Zoos",
+        "exclude": false
+    },
+    {
+        "id": "673eff2769694279c09c6e36",
+        "group": "Travel",
+        "industry": "Travel Arrangements",
+        "exclude": false
+    },
+    {
+        "id": "673eff2869694279c09c6e37",
+        "group": "Travel",
+        "industry": "Zoos and Botanical Gardens",
+        "exclude": false
+    },
+    {
+        "id": "673eff2c69694279c09c6e3b",
+        "group": "Utilities",
+        "industry": "Utilities",
+        "exclude": false
+    },
+    {
+        "id": "673eff2969694279c09c6e3a",
+        "group": "Utilities",
+        "industry": "Utilities Administration",
+        "exclude": false
+    },
+    {
+        "id": "673eff2c69694279c09c6e3c",
+        "group": "manufacturing",
+        "industry": "Household and Institutional Furniture Manufacturing",
+        "exclude": false
+    }
+]

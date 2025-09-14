@@ -1,0 +1,146 @@
+[
+    {
+        "function": "Admin",
+        "exclude": false
+    },
+    {
+        "function": "Analytics",
+        "exclude": false
+    },
+    {
+        "function": "Applications",
+        "exclude": false
+    },
+    {
+        "function": "Compliance",
+        "exclude": false
+    },
+    {
+        "function": "Controller",
+        "exclude": false
+    },
+    {
+        "function": "Customer Service",
+        "exclude": false
+    },
+    {
+        "function": "Cloud",
+        "exclude": false
+    },
+    {
+        "function":"Cyber Security",
+        "exclude": false
+    },
+    {
+        "function": "Data Engineering",
+        "exclude": false
+    },
+    {
+        "function": "Devops",
+        "exclude": false
+    },
+    {
+        "function": "Digital",
+        "exclude": false
+    },
+    {
+        "function": "Distribution",
+        "exclude": false
+    },
+    {
+        "function": "Engineering",
+        "exclude": false
+    },
+    {
+        "function": "Finance",
+        "exclude": false
+    },
+    {
+        "function": "Fraud",
+        "exclude": false
+    },
+    {
+        "function": "Hiring",
+        "exclude": false
+    },
+    {
+        "function": "HR",
+        "exclude": false
+    },
+    {
+        "function": "Infrastructure",
+        "exclude": false
+    },
+    {
+        "function": "IT",
+        "exclude": false
+    },
+    {
+        "function": "Inside Sales",
+        "exclude": false
+    },
+    {
+        "function": "Learning",
+        "exclude": false
+    },
+    {
+        "function": "Legal",
+        "exclude": false
+    },
+    {
+        "function": "Marketing",
+        "exclude": false
+    },
+    {
+        "function": "Network Security",
+        "exclude": false
+    },
+    {
+        "function": "Operations",
+        "exclude": false
+    },
+    {
+        "function": "Product Management",
+        "exclude": false
+    },
+    {
+        "function": "Production",
+        "exclude": false
+    },
+    {
+        "function":"Product Security",
+        "exclude": false
+    },
+    {
+        "function": "Purchase",
+        "exclude": false
+    },
+    {
+        "function": "Risk",
+        "exclude": false
+    },
+    {
+        "function": "Sales",
+        "exclude": false
+    },
+    {
+        "function": "Security",
+        "exclude": false
+    },
+    {
+        "function": "Support",
+        "exclude": false
+    },
+    {
+        "function": "Testing",
+        "exclude": false
+    },
+    {
+        "function": "Training",
+        "exclude": false
+    },
+    {
+        "function": "Research",
+        "exclude": false
+    }
+]

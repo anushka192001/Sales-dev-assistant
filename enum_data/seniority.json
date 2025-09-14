@@ -1,0 +1,54 @@
+[
+    {
+        "seniority": "Founder",
+        "exclude": false
+    },
+    {
+        "seniority": "Chairman",
+        "exclude": false
+    },
+    {
+        "seniority": "President",
+        "exclude": false
+    },
+    {
+        "seniority": "CEO",
+        "exclude": false
+    },
+    {
+        "seniority": "CXO",
+        "exclude": false
+    },
+    {
+        "seniority": "Vice President",
+        "exclude": false
+    },
+    {
+        "seniority": "Director",
+        "exclude": false
+    },
+    {
+        "seniority": "Head",
+        "exclude": false
+    },
+    {
+        "seniority": "Manager",
+        "exclude": false
+    },
+    {
+        "seniority": "Senior",
+        "exclude": false
+    },
+    {
+        "seniority": "Junior",
+        "exclude": false
+    },
+    {
+        "seniority": "Entry Level",
+        "exclude": false
+    },
+    {
+        "seniority": "Executive",
+        "exclude": false
+    }
+]

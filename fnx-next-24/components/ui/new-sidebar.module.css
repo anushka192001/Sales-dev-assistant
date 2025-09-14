@@ -1,0 +1,26 @@
+.sidebar-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.sidebar-icon-collapsed {
+  width: 24px;
+  height: 24px;
+}
+
+/* Chevron icon specific size */
+button[class*="self-end"] .sidebar-icon {
+  width: 16px;
+  height: 16px;
+}
+
+button[class*="self-end"] .sidebar-icon-collapsed {
+  width: 20px;
+  height: 20px;
+}
+
+/* Dropdown chevron specific size */
+span[class*="flex-1"] + svg.sidebar-icon {
+  width: 16px;
+  height: 16px;
+} 

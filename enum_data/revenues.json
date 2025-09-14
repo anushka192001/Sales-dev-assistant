@@ -1,0 +1,26 @@
+[
+    {
+        "revenue": "< 1M",
+        "exclude": false
+    },
+    {
+        "revenue": "1M - 10M",
+        "exclude": false
+    },
+    {
+        "revenue": "11M - 100M",
+        "exclude": false
+    },
+    {
+        "revenue": "101M - 500M",
+        "exclude": false
+    },
+    {
+        "revenue": "501M - 1B",
+        "exclude": false
+    },
+    {
+        "revenue": "1B+",
+        "exclude": false
+    }
+]

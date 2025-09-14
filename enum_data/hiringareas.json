@@ -1,0 +1,362 @@
+[
+    {
+        "exclude": false,
+        "hiringArea": "Account Payable"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Account Receivable"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Animation"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "API Testing"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Application Development"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Artificial Intelligence"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Augmented Reality(AR)"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Automation Testing"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Backup, DR, Dedup"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "BI"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Big Data"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Billing"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Blockchain"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Build & Release"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Business Process management"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "CAD"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Cisco Technologies"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Cloud Computing"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Cloud Migration"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Cloud Testing"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Compliance"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Content Writing"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "CRM Implementation"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Cyber Security"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Data Entry"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Data Science"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Data Security"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Database Administration"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Deep Learning"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Demand Generation"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Desktop Publishing"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Devops"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Digital Transformation"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Dispute Resolution"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "eLearning Course Development"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Electronics Hardware Design"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Embedded"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "ERP Implementation"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Fraud Management"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Freight"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Front End"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Functional Testing"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Google Apps"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Graph Technology"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Graphic Designer"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Instructional Design"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "IOT"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "IT"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Kernel Engineering"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "LMS"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Localization"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Load Testing"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Logistics"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Machine Learning"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Manual Testing"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "IBM Maximo"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Microsoft Technologies"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Mobile Analytics"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Mobile Applications"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Mobile App Testing"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Mobile Automation Testing"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Networking"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Oracle"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "OS"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Regression Testing"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Penetration Testing"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Performance Testing"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Project Management"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Reconciliation"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Robotic Process Automation"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Salesforce Development"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Sanity Testing"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "SAP"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "SAAS"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Security Testing"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "ServiceNow Implementation"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "SEO"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Sharepoint"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Simulation"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Storage"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Supply Chain"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Support"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Testing"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "User Acceptance Testing(UAT)"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "UX"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Virtualization"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Virtual Reality(VR)"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Vulnerability Assessment"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Web App Testing"
+    },
+    {
+        "exclude": false,
+        "hiringArea": "Web Development"
+    }
+]

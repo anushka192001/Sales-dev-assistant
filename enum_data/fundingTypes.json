@@ -1,0 +1,117 @@
+[
+    {
+        "fundingType": "Venture Round",
+        "exclude": false
+    },
+    {
+        "fundingType": "Angel Round",
+        "exclude": false
+    },
+    {
+        "fundingType": "Convertible Note",
+        "exclude": false
+    },
+    {
+        "fundingType": "Corporate Round",
+        "exclude": false
+    },
+    {
+        "fundingType": "Debt Financing",
+        "exclude": false   
+    },
+    {
+        "fundingType": "Funding Round",
+        "exclude": false 
+    },
+    {
+        "fundingType": "Grant",
+        "exclude": false 
+    },
+    {
+        "fundingType": "Initial Coin Offering",
+        "exclude": false 
+    },
+    {
+        "fundingType": "Non Equity Assistance",
+        "exclude": false 
+    },
+    {
+        "fundingType": "Private Equity Round",
+        "exclude": false 
+    },
+    {
+        "fundingType": "Product Crowdfunding",
+        "exclude": false
+    },
+    {
+        "fundingType": "Secondary Market",
+        "exclude":false
+    },
+    {
+        "fundingType": "Pre Seed Round",
+        "exclude": false 
+
+    },
+    {
+        "fundingType": "Seed Round",
+        "exclude":false
+         
+    },
+    {    
+        "fundingType": "Post",
+        "exclude": false 
+
+    },
+    {
+        "fundingType": "Post-IPO Debt",
+        "exclude":false
+    },
+    {
+        "fundingType": "Post-IPO Equity",
+        "exclude":false
+    },
+    {
+        "fundingType": "Post-IPO Secondary",
+        "exclude":false
+    },
+    {
+        "fundingType": "Series A",
+        "exclude": false
+    },
+    {
+        "fundingType": "Series B",
+        "exclude": false
+    },
+    {
+        "fundingType": "Series C",
+        "exclude": false
+    },
+    {
+        "fundingType": "Series D",
+        "exclude": false
+    },
+    {
+        "fundingType": "Series E",
+        "exclude": false
+    },
+    {
+        "fundingType": "Series F",
+        "exclude": false
+    },
+    {
+        "fundingType":"Series G",
+        "exclude": false
+    },
+    {
+        "fundingType": "Series H",
+        "exclude": false
+    },
+    {
+        "fundingType": "Series I",
+        "exclude": false
+    },
+    {
+        "fundingType": "Series J",
+        "exclude": false
+    }
+]
