@@ -15,11 +15,19 @@
 -  `storage/` - File storage
 
 ---
-DEMOS
+## DEMOS
+
+**LOGIN TO YOUR ACCOUNT---**
 ![LOGIN TO YOUR ACCOUNT---](GIFS/rec_1_intro-ezgif.com-video-to-gif-converter.gif)
+
+**SEARCH FOR LEADS---**
 ![SEARCH FOR LEADS---](GIFS/rec-2-dot-net-developers_PMQydA48-ezgif.com-video-to-gif-converter.gif)
+
+**SEARCH FOR COMPANIES---**
 ![SEARCH FOR COMPANIES---](GIFS/rec-3-startups-working-on-block-chain-technology-yap93mon_BuQztXNH-ezgif.com-video-to-gif-converter.gif)
-![SEARCH FOR COMPANIES---](GIFS/send-an-email-to-hrs-cxwip805_qxZFyc16-ezgif.com-video-to-gif-converter.gif)
+
+**SEND EMAIL TO HRS---**
+![SEND EMAIL TO HRS---](GIFS/send-an-email-to-hrs-cxwip805_qxZFyc16-ezgif.com-video-to-gif-converter.gif)
 
 ## 🚀 Getting Started
 
