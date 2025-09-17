@@ -4,8 +4,6 @@
 
 ---
 
-[![Watch the video](https://img.youtube.com/vi/YLslsZuEaNE/maxresdefault.jpg)](https://www.youtube.com/embed/YLslsZuEaNE?loop=1&playlist=YLslsZuEaNE)
-
 ## 📁 Project Structure
 
 - `routes.py` — FastAPI route handling for chat interactions and tool calls  
