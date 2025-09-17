@@ -1,6 +1,6 @@
 # AVA - AI SDR Assistant Backend
 
-**AVA** is an AI-powered SDR (Sales Development Representative) assistant backend designed to help sales teams discover relevant leads, suggest outreach emails, and manage interactions intelligently. Built with FastAPI, AVA integrates advanced LLMs and external APIs to streamline your sales workflow.
+**AVA** is an AI-powered chatbot SDR (Sales Development Representative) assistant backend designed to help sales teams discover relevant leads, suggest outreach emails, create cadences of 100s of people with suggested email by just one command and manage interactions intelligently. Built with FastAPI, AVA integrates advanced LLMs and external APIs to streamline your sales workflow.
 
 ---
 
@@ -21,8 +21,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone git@github.com:cloduraai/ai-sdr.git
-cd ai-sdr
+git clone https://github.com/anushka192001/Sales-dev-assistant.git
 ```
 
 ### 2. Create a Virtual Environment (Recommended)
@@ -34,8 +33,9 @@ source venv/bin/activate
 
 ### 3. Install Dependencies
 
-```bash
-pip install -r requirements.txt
+```
+Docker
+Mongodb
 ```
 
 ### 4. Configure Environment Variables
@@ -45,37 +45,19 @@ Create a `.env` file in the root directory and add:
 ```env
 OPENROUTER_API_KEY=your_openrouter_api_key
 CLODURA_TOKEN=your_clodura_token
+USER_ID=clodura_user_id
 ```
 
 ---
 
 ## 🏃‍♂️ Running Locally
 
-### Using Uvicorn
-
+### Build the docker image and run it
 ```bash
-uvicorn routes:app --reload
+  docker-compose up --build
 ```
 
-The API will be available at [http://143.244.143.231:8000](http://143.244.143.231:8000).
-
----
-
-## 🐳 Docker Setup
-
-### 1. Build the Docker Image
-
-```bash
-docker build -t ava-sdr .
-```
-
-### 2. Run the Container
-
-```bash
-docker run -p 8000:8000 ava-sdr
-```
-
-The API will be accessible at [http://143.244.143.231:8000](http://143.244.143.231:8000).
+The API will be available at [http://locathost:3000).
 
 ---
 
@@ -89,9 +71,3 @@ The API will be accessible at [http://143.244.143.231:8000](http://143.244.143.2
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please open issues or submit pull requests for improvements and bug fixes.
-
----
-**Happy Selling! 🚀**
