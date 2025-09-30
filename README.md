@@ -1,3 +1,6 @@
+application link-->
+https://anushkasingh-aisdr.org/auth/login
+
 # AVA - AI SDR Assistant Backend
 
 **AVA** is an AI-powered voice command supported chatbot SDR (Sales Development Representative) assistant backend designed to help sales teams discover relevant leads, suggest outreach emails, create cadences of 100s of people with suggested email by just one command and manage interactions intelligently. automatically provides titles to each chat sessions. Built with FastAPI, AVA integrates advanced LLMs and external APIs to streamline your sales workflow.
