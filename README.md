@@ -1,5 +1,5 @@
 application link-->
-https://anushkasingh-aisdr.org/auth/login
+https://anushkasingh-aisdr.org
 
 # AVA - AI SDR Assistant Backend
 
